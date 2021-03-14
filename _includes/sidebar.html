@@ -7,6 +7,7 @@
       <div class="sidebar-about">
         
         <h1><a id="_title" href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+        <br><br>
         {{ site.tagline | truncatewords:50 | markdownify }}
       </div><br>
 
@@ -14,7 +15,7 @@
           {% if author.picture %}
             {% include srcset-img.html class="me" img=author.picture alt=author.name %}
           {% endif %}
-        </div>
+        </div><br>
 
       {{ site.description | truncatewords:50 | markdownify }}
       {% assign author = site.data.authors.first[1] %}
