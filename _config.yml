@@ -13,12 +13,12 @@ url:                 https://limy-901.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             "Lyim's Log"
+tagline:             ""
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  We are all FlatLanders 🌎
+  like a Box of Chocolates 🎁
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
