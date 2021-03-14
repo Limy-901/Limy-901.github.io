@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: daily
-slug: daily
+title: Daily Log
+slug: Daily Log
 category: blog
 menu: false
 order: 1

@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: DB
-slug: DB
+title: DataBase
+slug: DataBase
 category: study
 menu: false
 order: 2

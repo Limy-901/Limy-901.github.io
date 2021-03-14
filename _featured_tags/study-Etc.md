@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: language
-slug: language
+title: Etc
+slug: Etc
 category: study
 menu: false
-order: 1
+order: 3
 ---
