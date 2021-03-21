@@ -1,0 +1,30 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: 비트캠프
+    i18n: 비트캠프 신촌센터
+  desc:
+    detail: 🎓 비트캠프 신촌센터 181기 수료
+    i18n: 비트캠프 신촌센터_desc
+  date:
+    detail: March. 2021
+    i18n: 비트캠프 신촌센터_date
+  job:
+    detail: 열정 넘치는 학생
+    i18n: 비트캠프 신촌센터_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: 입사를 희망합니다!
+    i18n: 입사를 희망합니다!
+  desc:
+    detail: 🔥 언제나 배우고, 누구보다 성실한 신입사원이 되겠습니다!
+    i18n: 입사를 희망합니다!_desc
+  date:
+    detail: April. 2021
+    i18n: 입사를 희망합니다!_date
+  job:
+    detail: 열정적인 신입사원
+    i18n: 입사를 희망합니다!_job
+  icon: fa-plus-square

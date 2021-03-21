@@ -1,0 +1,18 @@
+# links section data
+- last_name: Portfolio
+  first_name:
+  desc: Limy's Github Pages Portfolio
+  website: https://limy-901.github.io/
+  email: misty901@naver.com
+
+- last_name: Blog
+  first_name: 
+  desc: Limy's NAVER Blog URL
+  website: https://blog.naver.com/misty901
+  email: misty901@naver.com
+
+- last_name: Github
+  first_name: 
+  desc: Limy's Github URL
+  website: https://github.com/Limy-901
+  email: misty901@naver.com
