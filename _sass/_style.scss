@@ -740,7 +740,7 @@ button {
 .label {
   background-color: #d1dade;
   color: #5e5e5e;
-  font-family: 'Open Sans';
+  font-family: 'Spoqa Han Sans Neo', 'sans-serif';
   text-shadow: none;
   font-weight: 600;
 }
@@ -832,7 +832,7 @@ button.dim:active:before {
 }
 
 .glyphicon.fa {
-  font-family: FontAwesome;
+  font-family: 'Spoqa Han Sans Neo', 'sans-serif';
 }
 
 .inline {
@@ -1218,10 +1218,10 @@ label.error {
 }
 
 body {
-  font-family: "open sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  background-color: #2f4050;
-  font-size: 13px;
-  color: #676a6c;
+  font-family: 'Spoqa Han Sans Neo', 'sans-serif';
+  background-color: #6283a1;
+  font-size: 1.5rem;
+  color: #657e8f;
   height: 100%;
 }
 
@@ -1352,9 +1352,10 @@ img.circle-border {
 }
 
 code {
+  font-family: 'Spoqa Han Sans Neo', 'sans-serif';
   background-color: #F9F2F4;
   border-radius: 4px;
-  color: #ca4440;
+  color: #7fa6ef;
   font-size: 90%;
   padding: 2px 4px;
 }
@@ -1887,7 +1888,7 @@ ul.clear-list:first-child {
     color: #2F4050;
   }
   p {
-    font-size: 15px;
+    font-size: 1.7rem;
     line-height: 26px;
   }
 }
@@ -2013,7 +2014,7 @@ body {
   }
   &.landing-page {
     color: #676a6c;
-    font-family: 'Open Sans', helvetica, arial, sans-serif;
+    font-family: 'Spoqa Han Sans Neo', 'sans-serif';
     background-color: #fff;
   }
 }
@@ -2413,7 +2414,7 @@ body {
     transition: all .3s ease-in-out 0s;
     .nav li a {
       color: #fff;
-      font-family: 'Open Sans', helvetica, arial, sans-serif;
+      font-family: 'Spoqa Han Sans Neo', 'sans-serif';
       font-weight: 700;
       letter-spacing: 1px;
       text-transform: uppercase;
