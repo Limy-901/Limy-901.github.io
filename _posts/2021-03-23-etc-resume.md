@@ -79,7 +79,20 @@ icon: icon-html
 <p style="margin-bottom:5%;">Python, Kakao Api, Web Socket, SweetAlert2, Simple Date Picker</p>
 <!-- tools -->
 <h2 style="color:#a5c4ff"><b># Tools</b></h2><br>
-<p style="margin-bottom:20%;">STS3, Eclipse, VS Code, Sql Plus, Sql Developer, Slack, Git, Github, Bootstrap, MyBatis, Ajax, Tomcat9</p>
+<ul>
+    <li style="color:#7fa6ef">STS3</li>
+    <li style="color:#7fa6ef">Eclipse</li>
+    <li style="color:#7fa6ef">VS Code</li>
+    <li style="color:#7fa6ef">Sql Plus</li>
+    <li style="color:#7fa6ef">Sql Developer</li>
+    <li style="color:#7fa6ef">Slack</li>
+    <li style="color:#7fa6ef">Git</li>
+    <li style="color:#7fa6ef">Github</li>
+    <li style="color:#7fa6ef">Bootstrap4</li>
+    <li style="color:#7fa6ef">MyBatis</li>
+    <li style="color:#7fa6ef">Ajax</li>
+    <li style="color:#7fa6ef">Tomcat9</li>
+</ul>
 <!-- Stack -->
 <hr style="margin-bottom:20%;">
 <!-- Education -->
