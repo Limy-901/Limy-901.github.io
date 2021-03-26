@@ -36,11 +36,11 @@ icon: icon-html
 <!-- About -->
 <hr style="margin-bottom:20%;">
 <!-- Introduce -->
-<p id="intro"><code style="font-family: 'Spoqa Han Sans Neo'; background-color:rgb(0, 89, 255); font-size:3rem; color:white" class="language-plaintext highlighter-rouge"><b>## Introduce</b></code> </p><br><br><br>
+<p id="intro"><code style="font-family: 'Spoqa Han Sans Neo'; background-color:rgb(0, 89, 255); font-size:3rem; color:white" class="language-plaintext highlighter-rouge"><b>&nbsp; ## Introduce &nbsp;</b></code> </p><br><br><br>
 <!-- desc 1 -->
 <img style="width:400px; margin-bottom:6%;" src="\static\assets\img\blog\resume\basic.jpg">
 <h2 style="color:rgb(0, 89, 255); font-weight:normal">" <b>기본 원리</b>의 이해를 중요시 합니다. "</h2><br>
-<p>기초가 약하면 꾸준한 성장이 어려울 것이라고 생각했습니다.<br>그래서 조금이라도 더 다지기 위해 학원 내에서도 사람들을 모아 스터디를 운영하였습니다.<br> 앞으로도 꾸준한 공부를 통해 기본을 탄탄히 쌓아올려서, 다양한 변수에도 흔들리지 않는 단단한 결과물을 만들어 내고 싶습니다 ! </p><br><br><br>
+<p style="margin-bottom:15%;">기초가 약하면 꾸준한 성장이 어려울 것이라고 생각했습니다.<br>그래서 조금이라도 더 다지기 위해 학원 내에서도 사람들을 모아 스터디를 운영하였습니다.<br> 앞으로도 꾸준한 공부를 통해 기본을 탄탄히 쌓아올려서, 다양한 변수에도 흔들리지 않는 단단한 결과물을 만들어 내고 싶습니다 ! </p><br><br><br>
 <!-- desc 2 -->
 <img style="max-width:800px;" src="\static\assets\img\blog\resume\create.jpg">
 <h2 style="color:rgb(0, 89, 255); font-weight:normal">" 다양한 <b>창작</b> 경험이 있습니다. "</h2><br>
@@ -59,9 +59,9 @@ icon: icon-html
     <li style="color:#7fa6ef">행정안전부/ 청년 공동체 활성화 사업 경진대회 공동체상 수상</li>
 </ul>
 <!-- Introduce -->
-<hr style="margin-bottom:20%;">
+<hr style="margin-bottom:10%;">
 <!-- Stack -->
-<br><br><p id="stack" style="margin-bottom:10%;"><code style="font-family: 'Spoqa Han Sans Neo'; background-color:rgb(0, 89, 255); font-size:3rem; color:white" class="language-plaintext highlighter-rouge"><b>## Stack</b></code></p>
+<br><br><p id="stack" style="margin-bottom:10%;"><code style="font-family: 'Spoqa Han Sans Neo'; background-color:rgb(0, 89, 255); font-size:3rem; color:white" class="language-plaintext highlighter-rouge"><b>&nbsp; ## Stack &nbsp;</b></code></p>
 <!-- java -->
 <h2 style="color:rgb(0, 89, 255)"><b># Java</b></h2><br>
 <p style="margin-bottom:5%;">가장 자신있게 사용할 수 있으며 거의 모든 프로젝트에서 자바 언어를 사용했습니다.</p>
@@ -75,28 +75,34 @@ icon: icon-html
 <h2 style="color:rgb(0, 89, 255)"><b># HTML / CSS</b></h2><br>
 <p style="margin-bottom:5%;">원하는 UI 를 만들고 프로젝트에 적용시킬 수 있습니다.</p>
 <!-- experienced -->
-<h2 style="color:#a5c4ff"><b># Experienced</b></h2><br>
-<p style="margin-bottom:5%;">Python, Kakao Api, Web Socket, SweetAlert2, Simple Date Picker</p>
+<h2 style="color:#AAAAAA"><b># Experienced</b></h2><br>
+<ul style="margin-bottom:5%;">
+    <li style="color:#a5c4ff">Python</li>
+    <li style="color:#a5c4ff">Kakao Api</li>
+    <li style="color:#a5c4ff">Web Socket</li>
+    <li style="color:#a5c4ff">SweetAlert2</li>
+    <li style="color:#a5c4ff">Simple Date Picker</li>
+</ul>
 <!-- tools -->
-<h2 style="color:#a5c4ff"><b># Tools</b></h2><br>
+<h2 style="color:#AAAAAA"><b># Tools</b></h2><br>
 <ul>
-    <li style="color:#7fa6ef">STS3</li>
-    <li style="color:#7fa6ef">Eclipse</li>
-    <li style="color:#7fa6ef">VS Code</li>
-    <li style="color:#7fa6ef">Sql Plus</li>
-    <li style="color:#7fa6ef">Sql Developer</li>
-    <li style="color:#7fa6ef">Slack</li>
-    <li style="color:#7fa6ef">Git</li>
-    <li style="color:#7fa6ef">Github</li>
-    <li style="color:#7fa6ef">Bootstrap4</li>
-    <li style="color:#7fa6ef">MyBatis</li>
-    <li style="color:#7fa6ef">Ajax</li>
-    <li style="color:#7fa6ef">Tomcat9</li>
+    <li style="color:#a5c4ff">Spring Tool Suite 3</li>
+    <li style="color:#a5c4ff">Eclipse</li>
+    <li style="color:#a5c4ff">Visual Studio Code</li>
+    <li style="color:#a5c4ff">Sql Plus</li>
+    <li style="color:#a5c4ff">Sql Developer</li>
+    <li style="color:#a5c4ff">Slack</li>
+    <li style="color:#a5c4ff">Git</li>
+    <li style="color:#a5c4ff">Github</li>
+    <li style="color:#a5c4ff">Bootstrap4</li>
+    <li style="color:#a5c4ff">MyBatis</li>
+    <li style="color:#a5c4ff">Ajax</li>
+    <li style="color:#a5c4ff">Tomcat9</li>
 </ul>
 <!-- Stack -->
 <hr style="margin-bottom:20%;">
 <!-- Education -->
-<p id="edu" style="margin-bottom:10%;"><code style="font-family: 'Spoqa Han Sans Neo'; background-color:rgb(0, 89, 255); font-size:3rem; color:white" class="language-plaintext highlighter-rouge"><b>## Education</b></code></p>
+<p id="edu" style="margin-bottom:10%;"><code style="font-family: 'Spoqa Han Sans Neo'; background-color:rgb(0, 89, 255); font-size:3rem; color:white" class="language-plaintext highlighter-rouge"><b>&nbsp; ## Education &nbsp;</b></code></p>
 
 <h2 style="color:rgb(0, 89, 255)"><b># 비트캠프</b> 신촌센터 181기</h2>
 <p style="margin-bottom:2%;">2020.10. ~ 2021. 3.   /    
