@@ -19,7 +19,7 @@ icon: icon-html
 <img style="width:100px;" src="\static\assets\img\blog\project\withMyPet\footprint.png"><br><br><br>
 <p>: 위드마이펫은 학원에서 진행 된 파이널 프로젝트 입니다.<br>&nbsp; 산책, 쇼핑, 커뮤니티 등 다양한 서비스를 함께 즐길 수 있는 통합 웹을 구현하고자 했습니다.</p><br><br><br>
 <h2><b>프로젝트 개요</b></h2><br>
-![wmpstack](https://user-images.githubusercontent.com/75344281/116731744-118e9180-aa25-11eb-87f5-c5c7c53f904c.jpg)<br><br><br>
+<img src="https://postfiles.pstatic.net/MjAyMTA1MDFfMjYy/MDAxNjE5ODAwMzk0NDQy.-hc2nKbZWkzAkL0okY2Z1Wz48TtOdNHJ2wTRlLfq9EIg.EcRjZudRl-33xP9icNBZdAw8lrNMb9DSy_o2yQWPOoAg.JPEG.misty901/wmpstack.jpg?type=w773"><br><br><br>
 <p> * <b>프로젝트 형태</b> : 팀 프로젝트 </p>
 <p> * <b>프로젝트 기간</b> : 20년 1월 ~ 21년 3월 </p>
 <p> * <b>📂Git hub</b> : <a href="https://github.com/Limy-901/WithMyPet">Repository</a></p>
