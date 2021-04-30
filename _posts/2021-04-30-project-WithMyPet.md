@@ -16,14 +16,14 @@ icon: icon-html
 <center>
 <br>
 <h2>😮 지역 반려동물 산책 매칭 및 통합 서비스 😕</h2><br>
-<img style="width:200px;" src="\static\assets\img\blog\project\withMyPet\footprint.png"><br><br><br>
+<img style="width:100px;" src="\static\assets\img\blog\project\withMyPet\footprint.png"><br><br><br>
 <p>: 위드마이펫은 학원에서 진행 된 파이널 프로젝트 입니다.<br>&nbsp; 산책, 쇼핑, 커뮤니티 등 다양한 서비스를 함께 즐길 수 있는 통합 웹을 구현하고자 했습니다.</p><br><br><br>
 <h2><b>프로젝트 개요</b></h2><br>
 <img src="\static\assets\img\blog\project\withMyPet\wmpstack.jpg"><br><br><br>
-<p> * <b>프로젝트 형태</b> : 개인 프로젝트 </p>
-<p> * <b>프로젝트 기간</b> : 3일 </p>
-<p> * <b>📂Git hub</b> : <a href="https://github.com/Limy-901/Python_game">Repository</a></p>
-<p> * <b>🎥YouTube</b> : <a href="https://www.youtube.com/watch?v=DA8I7XR8q30">우주고양이.mp4</a></p>
+<p> * <b>프로젝트 형태</b> : 팀 프로젝트 </p>
+<p> * <b>프로젝트 기간</b> : 20년 1월 ~ 21년 3월 </p>
+<p> * <b>📂Git hub</b> : <a href="https://github.com/Limy-901/WithMyPet">Repository</a></p>
+<p> * <b>🎥YouTube</b> : <a href="https://youtu.be/E7_hEN3_wmA?t=256">시연 영상</a></p>
 </center>
 
 <hr>
