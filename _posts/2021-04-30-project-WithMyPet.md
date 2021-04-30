@@ -15,10 +15,8 @@ icon: icon-html
 
 <center>
 <br>
-<h2>😮 지역 반려동물 산책 매칭 및 통합 서비스 😕</h2>
-
-<br>
-<img style="width:300px;" src="\static\assets\img\blog\project\withMyPet\footprint.png"><br><br><br>
+<h2>😮 지역 반려동물 산책 매칭 및 통합 서비스 😕</h2><br>
+<img style="width:200px;" src="\static\assets\img\blog\project\withMyPet\footprint.png"><br><br><br>
 <p>: 위드마이펫은 학원에서 진행 된 파이널 프로젝트 입니다.<br>&nbsp; 산책, 쇼핑, 커뮤니티 등 다양한 서비스를 함께 즐길 수 있는 통합 웹을 구현하고자 했습니다.</p><br><br><br>
 <h2><b>프로젝트 개요</b></h2><br>
 <img src="\static\assets\img\blog\project\withMyPet\wmpstack.jpg"><br><br><br>
