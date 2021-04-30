@@ -6,25 +6,25 @@
   gh_user: Limy
   url: https://google.com
   img: /static/assets/img/landing/jekyll.png
-  desc: Final Project <br> 반려동물의 동네 산책친구 매칭 통합 웹 서비스 (Spring)
+  desc: Final Project (Web)<br> 반려동물의 동네 산책친구 매칭 통합 웹 서비스 (Spring)
 
 - name: 🛬 비트 투어 (Bit Tour)
   i18n: Bit Tour
   gh_user: Limy
   url: https://google.com
   img: /static/assets/img/landing/pj-2.jpg
-  desc: Semi Project <br> 해외여행 패키지 예약 웹 서비스 (Servlet)
+  desc: Semi Project (Web)<br> 해외여행 패키지 예약 웹 서비스 (Servlet)
 
 - name: 🎵 드랍 더 비트 (Drop The BEAT)
   i18n: Drop The BEAT
   gh_user: Limy
   url: https://google.com
   img: /static/assets/img/landing/pj-3.png
-  desc: First Project <br> 랜덤 음악을 듣고 가사를 맞추는 게임 (Java)
+  desc: First Project (Java Game)<br> 랜덤 음악을 듣고 가사를 맞추는 게임
 
 - name: 🌛 우주 고양이 (Astro Cat)
   i18n: Astro Cat
   gh_user: Limy
   url: https://limy-901.github.io/project/2021/03/23/project-AstroCat.html
   img: /static/assets/img/landing/pj-4.jpg
-  desc: Toy Project <br> 외계인들을 피해 지구로 돌아오는 게임 (Python)
+  desc: Toy Project (Python Game)<br> 외계인들을 피해 지구로 돌아오는 게임

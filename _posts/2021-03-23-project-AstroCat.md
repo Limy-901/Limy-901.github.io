@@ -24,8 +24,8 @@ icon: icon-html
 <img src="\static\assets\img\blog\project\astroCat\astrocat-stack.jpg"><br><br><br>
 <p> * <b>프로젝트 형태</b> : 개인 프로젝트 </p>
 <p> * <b>프로젝트 기간</b> : 3일 </p>
-<p> * <b>📂</b> : <a href="https://github.com/Limy-901/Python_game">Git hub</a></p>
-<p> * <b>🎥</b> : <a href="https://www.youtube.com/watch?v=DA8I7XR8q30">우주고양이</a></p>
+<p> * <b>📂Git hub</b> : <a href="https://github.com/Limy-901/Python_game">Repository</a></p>
+<p> * <b>🎥YouTube</b> : <a href="https://www.youtube.com/watch?v=DA8I7XR8q30">우주고양이.mp4</a></p>
 </center>
 
 <hr>

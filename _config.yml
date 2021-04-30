@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Limy's
+title: 임연지
 description: Limy's github pages.
 keywords: Limy,임연지,JuniorDeveloper,github,gh-pages
 #baseurl:  /Limy # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: 배움을 즐길 줄 아는 주니어 개발자 <a href="https://limy-901.github.io/etc/2021/03/25/etc-resume.html">Resume</a> # Describe yourself.
+  desc: 배움을 즐길 줄 아는 주니어 개발자<br><b>임연지</b>입니다!  잘 부탁드립니다.<br><a href="https://limy-901.github.io/etc/2021/03/25/etc-resume.html">이력서</a> # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
