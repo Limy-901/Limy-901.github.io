@@ -1,5 +1,6 @@
 .landing-page .carousel-caption {
   h1, p {
+    font-weight: bold;
     text-transform: uppercase;
   }
 }
@@ -9,10 +10,12 @@ button.dim {
 }
 
 h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
   font-weight: 100;
 }
 
 h1 {
+  font-weight: bold;
   font-size: 30px;
 }
 
@@ -2745,6 +2748,7 @@ body {
         top: 80px;
       }
       h1 {
+        font-weight: bold;
         font-size: 28px;
       }
     }
