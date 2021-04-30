@@ -19,7 +19,7 @@
   i18n: Drop The BEAT
   gh_user: Limy
   url: /project/2021/04/28/project-DropTheBeat.html
-  img: https://blogfiles.pstatic.net/MjAyMTA1MDFfMjYy/MDAxNjE5ODAwMzk0NDQy.-hc2nKbZWkzAkL0okY2Z1Wz48TtOdNHJ2wTRlLfq9EIg.EcRjZudRl-33xP9icNBZdAw8lrNMb9DSy_o2yQWPOoAg.JPEG.misty901/wmpstack.jpg
+  img: /static/assets/img/landing/pj-3.png
   desc: First Project (Java Game)<br> 랜덤 음악을 듣고 가사를 맞추는 게임
 
 - name: 🌛 우주 고양이 (Astro Cat)

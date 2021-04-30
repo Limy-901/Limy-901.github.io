@@ -24,8 +24,8 @@ icon: icon-html
 <p> * <b>프로젝트 기간</b> : 21년 1월 ~ 21년 3월</p>
 <p> * <b>📂GitHub</b> : <a href="https://github.com/Limy-901/WithMyPet">Repository</a></p>
 <p> * <b>✨담당 파트</b> : <a href="">1.산책,</a>&nbsp;&nbsp; <a href="">2.관리자</a></p>
-</center>
-<br><br><hr>
+</center><br><br>
+<hr>
 <center><br><br>
 
 <iframe width="944" height="531" src="https://www.youtube.com/embed/E7_hEN3_wmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
