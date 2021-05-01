@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "위드마이펫 (With My Pet)"
+title:  "비트투어 (Bit Tour)"
 date: 2021-04-29
-desc: "반려동물 산책 및 통합 웹 사이트"
-keywords: "Lyim, Pet, Java, Spring, Ajax, Project, WebSocket"
+desc: "여행 상품 패키지 예약 웹 서비스"
+keywords: "Lyim, Trip, Java, Eclipse, Project"
 categories: [Project]
-tags: [Java,Spring,Project]
+tags: [Java,Eclipse,Project]
 icon: icon-html
 ---
 
@@ -14,36 +14,66 @@ icon: icon-html
 ***
 
 <center>
-<br>
-<h2>😮 파이썬 터틀 라이브러리로 과연 어떤 게임을 만들 수 있을까? 😕</h2>
+<br><h2 style="font-weight:400">🛫 여행 상품 패키지 예약 웹 서비스 🌍</h2><br>
+<img style="width:20%;" src="\static\assets\img\landing\pj-2.jpg"><br><br><br>
+<p>: 비트 투어는 학원에서 진행된 세미 프로젝트입니다.<br>&nbsp;처음으로 서버와 클라이언트를 나누고 MVC 모델을 익히는 단계에서 진행 된 프로젝트로,<br>코로나 시대 여행에 대한 그리움을 달래보고자 진행하였습니다.</p><br><br><br>
 
-<br>
-<img style="width:300px;" src="\static\assets\img\blog\project\astroCat\astrocat-logo.png"><br><br><br>
-<p>: 우주고양이는 학원에서 진행 된 파이썬 기초 수업 직후 제작한 터틀 라이브러리 기반의 미니 게임입니다.<br>&nbsp;우주에서 길을 잃은 고양이를 위해 사용자가 직접 별을 수집하고, 고양이와 함께 지구로 돌아온다는 스토리의 미니 프로젝트 입니다.</p><br><br><br>
-<h2><b>프로젝트 개요</b></h2><br>
-<img src="\static\assets\img\blog\project\astroCat\astrocat-stack.jpg"><br><br><br>
-<p> * <b>프로젝트 형태</b> : 개인 프로젝트 </p>
-<p> * <b>프로젝트 기간</b> : 3일 </p>
-<p> * <b>📂Git hub</b> : <a href="https://github.com/Limy-901/Python_game">Repository</a></p>
-<p> * <b>🎥YouTube</b> : <a href="https://www.youtube.com/watch?v=DA8I7XR8q30">우주고양이.mp4</a></p>
-</center>
+<code style="background-color:#7fa6ef; font-weight:100; font-size:2em; color:white" class="language-plaintext highlighter-rouge"><b>&nbsp;프로젝트 개요&nbsp;</b></code><br><br>
+<p><img style="width:40%;" src="\static\assets\img\blog\project\dropTheBeat\team.jpg"></p>
+<img style="width:40%;" src="\static\assets\img\blog\project\bitTour\stack.jpg"><br><br><br>
+<p> * <b>프로젝트 형태</b> : 비트 조, 총 4명, 팀장</p>
+<p> * <b>프로젝트 기간</b> : 20.12.08 ~ 20.12.15</p>
+<p> * <b>📃데이터베이스 설계</b><br><img style="width:50%;" src="\static\assets\img\blog\project\bitTour\erd.png"></p>
+<p> * <b>📂Git hub</b> : <a href="https://github.com/Limy-901/Project_2st">Repository</a></p>
+<p> * <b>✨담당 파트</b> : 랜딩 페이지, 상세 페이지, 답변형 문의 게시판</p>
 
+</center><br><br>
+<hr>
+<center><br><br>
+
+<code style="background-color:#7fa6ef; font-weight:100; font-size:2em; color:white" class="language-plaintext highlighter-rouge"><b>&nbsp;시연 동영상&nbsp;</b></code><br><br>
+<iframe width="708" height="398" src="https://www.youtube.com/embed/hXfMJq8fkvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p style="margin-bottom:10%;"></p>
+<hr>
+<br><br><br><br><code style="background-color:#7fa6ef; font-weight:100; font-size:2em; color:white" class="language-plaintext highlighter-rouge"><b>&nbsp;랜딩 페이지&nbsp;</b></code><br><br>
+<img src="\static\assets\img\blog\project\bitTour\1.png"><br><br>
+<p><b>디자인</b> : HTML5와 CSS3를 이용하여 화면 구성</p>
+<p><b>상단 메뉴</b> : 서비스 목록, 로그인 기능</p>
+<p><b>여행지 선택</b> : 해당 여행지 상세 설명 페이지로 이동</p>
+<p style="margin-bottom:10%;"></p>
 <hr>
 
-<center>
-<br>
-<h2>Intro</h2>
-<iframe src="\static\assets\img\blog\project\astroCat\astro-1.gif" frameborder='0' scrolling='no' width='512px' height='300px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
-<br><br>
-<h2>1st Game</h2>
-<iframe src="\static\assets\img\blog\project\astroCat\astro-2.gif" frameborder='0' scrolling='no' width='650px' height='400px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
-<p><b>onkeypress, distance</b> : 키보드로 고양이를 움직여서 랜덤하게 등장하는 5개의 별을 모으면 승리합니다. </p>
-<br><br>
-<h2>2st Game</h2>
-<iframe src="\static\assets\img\blog\project\astroCat\astro-3.gif" frameborder='0' scrolling='no' width='650px' height='400px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
-<p><b>onscreenclick, xcor, ycor</b> : 랜덤한 속도로 우주선을 차지하기 위해 달려나가는 다른 외계인들이 먼저 도착하기 전에,<br> 마우스로 랜덤하게 등장하는 5개의 별을 클릭해서 빠르게 달려나갈 수 있습니다! 우주선에 먼저 도착하면 승리합니다.</p>
-<br><br>
-<h2>Success</h2>
-<iframe src="\static\assets\img\blog\project\astroCat\astro-4.gif" frameborder='0' scrolling='no' width='650px' height='400px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
-<p>모든 조건을 만족시키면, 최종 승리가 확정됩니다! 고양이와 무사히 지구에 돌아오세요. 😻 </p>
-</center><br><br>
+<br><br><br><br><code style="background-color:#7fa6ef; font-weight:100; font-size:2em; color:white" class="language-plaintext highlighter-rouge"><b>&nbsp;상세 페이지&nbsp;</b></code><br><br>
+<img style="width:10%;" src="\static\assets\img\blog\project\bitTour\2-1.png">
+<img style="width:10%;" src="\static\assets\img\blog\project\bitTour\2-3.png">
+<img style="width:10%;" src="\static\assets\img\blog\project\bitTour\2-2.png"><br><br><br>
+<p><b>디자인</b> : Semantic UI 라이브러리를 활용하여 화면 구성</p>
+<p><b>예약 버튼</b> : 로그인 시에만 예약 서비스로 이동</p>
+<p style="margin-bottom:10%;"></p>
+<hr>
+<br><br><br><code style="background-color:#7fa6ef; font-weight:100; font-size:2em; color:white" class="language-plaintext highlighter-rouge"><b>&nbsp;답변형 문의 게시판&nbsp;</b></code><br><br><br>
+
+<h3 style="font-size:2.5rem; color:#7fa6ef;">1. 게시글 리스트</h3>
+<img style="width:80%;" src="\static\assets\img\blog\project\bitTour\3-1.jpg">
+<p><b>회원 여부 체크</b> : (Session 체크) 로그인 시에만 접근 가능한 게시판</p>
+<p><b>문의글 / 답변글 구분</b> : (게시글의 Level 체크) 답변 글은 좌측에 답변 아이콘과 작성자에 관리자 이름이 붙음</p>
+<p><b>페이지네이션</b> : (Select By ROWNUM) 페이지 당 5개의 게시글을 볼 수 있음</p><br>
+
+<br><br><h3 style="font-size:2.5rem; color:#7fa6ef;">2. 회원 - 문의글 작성</h3><br>:
+<img style="width:80%;" src="\static\assets\img\blog\project\bitTour\3-2.png">
+<p><b>작성자</b> : (Session에 담긴 회원정보) 현재 세션의 로그인 되어 있는 회원명</p>
+<p><b>작성일</b> : 현재 시스템 시간</p><br>
+
+
+<br><br><h3 style="font-size:2.5rem; color:#7fa6ef;">3. 관리자 - 답변글 작성</h3><br>
+<img style="width:80%;" src="\static\assets\img\blog\project\bitTour\3-3.png">
+<p><b>문의글 내용</b> : (클릭한 문의글 내용) 답변시에 참고할 수 있음</p>
+
+
+<br><br><h3 style="font-size:2.5rem; color:#7fa6ef;">4. 관리자 - 답변글 확인</h3><br>
+<img style="width:80%;" src="\static\assets\img\blog\project\bitTour\3-4.png">
+<p><b>수정 & 삭제</b> : (게시글 CRUD) 답변이 완료 된 게시물에 대하여 수정, 삭제가 가능</p>
+<p style="margin-bottom:5%;"></p>
+
+

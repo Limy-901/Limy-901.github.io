@@ -27,12 +27,12 @@ icon: icon-html
 </center><br><br>
 <hr>
 <center><br><br>
-
+<h1><span class="navy"><b>✨ 시연 영상</b></span></h1><br><br>
 <iframe width="944" height="531" src="https://www.youtube.com/embed/E7_hEN3_wmA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p style="margin-bottom:10%;"></p>
 
 <hr>
-<h1><b>✨ 1. 산 책</b></h1><br><br>
+<h1><span class="navy"><b>✨ 1. 산 책</b></span></h1><br><br>
 <p><p>1-1 산책 목록</p><br>
 <iframe src="\static\assets\img\blog\project\withMyPet\1-walklist.gif" frameborder='0' scrolling='no' width='640px' height='360px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe><br><br>
 <a><p style="margin-bottom:10%;">🔗 자세히 보기</p></a></p>
