@@ -49,7 +49,7 @@ icon: icon-html
 <img style="width:10%;" src="\static\assets\img\blog\project\bitTour\2-3.png">
 <img style="width:10%;" src="\static\assets\img\blog\project\bitTour\2-2.png"><br><br><br>
 <p><b>디자인</b> : Semantic UI 라이브러리를 활용하여 화면 구성</p>
-<p><b>예약 버튼</b> : 로그인 시에만 예약 서비스로 이동</p>
+<p><b>예약 버튼</b> : 로그인 시에만 예약 서비스로 이용 가능</p>
 <p style="margin-bottom:10%;"></p>
 <hr>
 <br><br><br><code style="background-color:#7fa6ef; font-weight:100; font-size:2em; color:white" class="language-plaintext highlighter-rouge"><b>&nbsp;답변형 문의 게시판&nbsp;</b></code><br><br><br>
