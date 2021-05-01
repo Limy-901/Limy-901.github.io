@@ -32,12 +32,12 @@ icon: icon-html
 <center><br><br>
 
 <code style="background-color:#7fa6ef; font-weight:100; font-size:2em; color:white" class="language-plaintext highlighter-rouge"><b>&nbsp;시연 동영상&nbsp;</b></code><br><br>
-<iframe width="708" height="398" src="https://www.youtube.com/embed/hXfMJq8fkvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="760" height="398" src="https://www.youtube.com/embed/hXfMJq8fkvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p style="margin-bottom:10%;"></p>
 <hr>
 <br><br><br><br><code style="background-color:#7fa6ef; font-weight:100; font-size:2em; color:white" class="language-plaintext highlighter-rouge"><b>&nbsp;랜딩 페이지&nbsp;</b></code><br><br>
-<img src="\static\assets\img\blog\project\bitTour\1.png"><br><br>
+<img style="width:80%;" src="\static\assets\img\blog\project\bitTour\1.png"><br><br>
 <p><b>디자인</b> : HTML5와 CSS3를 이용하여 화면 구성</p>
 <p><b>상단 메뉴</b> : 서비스 목록, 로그인 기능</p>
 <p><b>여행지 선택</b> : 해당 여행지 상세 설명 페이지로 이동</p>
@@ -52,7 +52,9 @@ icon: icon-html
 <p><b>예약 버튼</b> : 로그인 시에만 예약 서비스로 이용 가능</p>
 <p style="margin-bottom:10%;"></p>
 <hr>
-<br><br><br><code style="background-color:#7fa6ef; font-weight:100; font-size:2em; color:white" class="language-plaintext highlighter-rouge"><b>&nbsp;답변형 문의 게시판&nbsp;</b></code><br><br><br>
+<br><br><br>
+<div style="width:80%;">
+<code style="background-color:#7fa6ef; font-weight:100; font-size:2em; color:white" class="language-plaintext highlighter-rouge"><b>&nbsp;답변형 문의 게시판&nbsp;</b></code></div><br><br><br>
 
 <h3 style="font-size:2.5rem; color:#7fa6ef;">1. 게시글 리스트</h3>
 <img style="width:80%;" src="\static\assets\img\blog\project\bitTour\3-1.jpg">
