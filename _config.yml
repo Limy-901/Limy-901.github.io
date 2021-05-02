@@ -13,7 +13,7 @@ img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/asset
 author:  # change following line to your infomation.
   name: GitHub  # Be used at blog posts' author.
   first_name: 임연지 # Be used at index page about me section.
-  last_name: Limy  # Be used at index page about me section.
+  last_name: Im Yeon Ji  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: limy-901  # Leave blank if you don't have now
   #linkedin_id: jarrekk # Leave blank if you don't have now
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: 배움을 즐길 줄 아는 주니어 개발자<br><b>임연지</b>입니다!<br><a href="https://limy-901.github.io/etc/2021/03/25/etc-resume.html">About</a><br><br><a href="#Project">Project</a> # Describe yourself.
+  desc: 안녕하세요!<br>배움을 즐길 줄 아는 주니어 개발자<br><b>임연지</b>입니다!<br><a style="margin-top:3%;" href="https://limy-901.github.io/etc/2021/03/25/etc-resume.html">About</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href="#Project">Project</a> # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
