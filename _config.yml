@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: 안녕하세요!<br>배움을 즐길 줄 아는 주니어 개발자<br><b>임연지</b>입니다!<br><a style="margin-top:3%;" href="https://limy-901.github.io/etc/2021/03/25/etc-resume.html">About</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href="#Project">Project</a> # Describe yourself.
+  desc: <a style="margin-top:3%;" href="https://limy-901.github.io/etc/2021/03/25/etc-resume.html">About</a>&nbsp;&nbsp;/&nbsp;&nbsp;<a href="#Project">Project</a> # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
