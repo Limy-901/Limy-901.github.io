@@ -76,15 +76,15 @@ icon: icon-html
 <h2 style="color:rgb(0, 89, 255)"><b># HTML / CSS</b></h2><br>
 <p style="margin-bottom:5%;">원하는 UI 를 만들고 프로젝트에 적용시킬 수 있습니다.</p>
 <!-- experienced -->
-<h2 style="color:#AAAAAA"><b># Experienced</b></h2><br>
-<p style="margin-bottom:5%; color:#a5c4ff;">Python</p>
+<h2 style="color:#555555"><b># Experienced</b></h2><br>
+<p style="margin-bottom:5%; color:#aaaaaa;">Python</p>
 <!-- tools -->
-<h2 style="color:#AAAAAA"><b># Tools</b></h2><br>
-<p style="margin-bottom:5%;color:#a5c4ff;">Spring Tool Suite 3<br>Eclipse<br>Visual Studio Code</p>
-<p style="margin-bottom:5%;color:#555555;">Sql plus<br>Sql Developer<br>eXERD</p>
-<p style="margin-bottom:5%;color:#a5c4ff;">Ajax<br>Tomcat9<br>Web Socket</p>
-<p style="margin-bottom:5%;color:#555555;">Bootstrap4<br>Semantic UI<br>Kakao API<br>SweetAlert2<br>Simple Data Picker<br>Toastr</p>
-<p style="margin-bottom:5%;color:#a5c4ff;">Slack<br>Github</p>
+<h2 style="color:#555555"><b># Tools</b></h2><br>
+<p style="margin-bottom:2%;color:#a5c4ff;">Spring Tool Suite 3<br>Eclipse<br>Visual Studio Code</p>
+<p style="margin-bottom:2%;color:#aaaaaa;">Sql plus<br>Sql Developer<br>eXERD</p>
+<p style="margin-bottom:2%;color:#a5c4ff;">Ajax<br>Tomcat9<br>Web Socket</p>
+<p style="margin-bottom:2%;color:#aaaaaa;">Bootstrap4<br>Semantic UI<br>Kakao API<br>SweetAlert2<br>Simple Data Picker<br>Toastr</p>
+<p style="margin-bottom:2%;color:#a5c4ff;">Slack<br>Github</p>
 <!-- Stack -->
 <hr style="margin-bottom:20%;">
 <!-- Education -->

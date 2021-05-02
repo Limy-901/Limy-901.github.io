@@ -18,10 +18,10 @@ icon: icon-html
 <h2>😮 파이썬 터틀 라이브러리로 과연 어떤 게임을 만들 수 있을까? 😕</h2>
 
 <br>
-<img style="width:300px;" src="\static\assets\img\blog\project\astroCat\astrocat-logo.png"><br><br><br>
+<img style="width:60%;" src="\static\assets\img\blog\project\astroCat\astrocat-logo.png"><br><br><br>
 <p>: 우주고양이는 학원에서 진행 된 파이썬 기초 수업 직후 제작한 터틀 라이브러리 기반의 미니 게임입니다.<br>&nbsp;우주에서 길을 잃은 고양이를 위해 사용자가 직접 별을 수집하고, 고양이와 함께 지구로 돌아온다는 스토리의 미니 프로젝트 입니다.</p><br><br><br>
 <h2><b>프로젝트 개요</b></h2><br>
-<img src="\static\assets\img\blog\project\astroCat\astrocat-stack.jpg"><br><br><br>
+<img style="width:60%;" src="\static\assets\img\blog\project\astroCat\astrocat-stack.jpg"><br><br><br>
 <p> * <b>프로젝트 형태</b> : 개인 프로젝트 </p>
 <p> * <b>프로젝트 기간</b> : 3일 </p>
 <p> * <b>📂Git hub</b> : <a href="https://github.com/Limy-901/Python_game">Repository</a></p>
