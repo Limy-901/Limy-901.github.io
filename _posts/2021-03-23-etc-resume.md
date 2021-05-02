@@ -22,9 +22,10 @@ icon: icon-html
 <p style="text-align:center; font-size:2rem; font-family: 'Spoqa Han Sans Neo', 'sans-serif';">반갑습니다!🌞<br><br><b>이해</b>가 취미이고, <b>만들기</b>가 특기인<br></p> <h2><b style="color:rgb(0, 89, 255);">임연지</b> 입니다.</h2><br><br>
 
 <div style="margin-bottom:5%;" >
-    <code style="font-family: 'Spoqa Han Sans Neo'; background-color:#7fa6ef; font-size:1.5em; color:white" class="language-plaintext highlighter-rouge"><b># 이해하고싶다</b></code>&nbsp;&nbsp;
-    <code style="font-family: 'Spoqa Han Sans Neo'; background-color:#7fa6ef; font-size:1.5em; color:white" class="language-plaintext highlighter-rouge"><b># 호기심</b></code>&nbsp;&nbsp;
-    <code style="font-family: 'Spoqa Han Sans Neo'; background-color:#7fa6ef; font-size:1.5em; color:white" class="language-plaintext highlighter-rouge"><b># 새로운 기술</b></code>
+    <code style="font-weight:200; font-family: 'Spoqa Han Sans Neo'; background-color:#7fa6ef; font-size:1.2em; color:white" class="language-plaintext highlighter-rouge"><b># 관찰</b></code>&nbsp;&nbsp;
+    <code style="font-weight:200; font-family: 'Spoqa Han Sans Neo'; background-color:#7fa6ef; font-size:1.2em; color:white" class="language-plaintext highlighter-rouge"><b># 이해</b></code>&nbsp;&nbsp;
+    <code style="font-weight:200; font-family: 'Spoqa Han Sans Neo'; background-color:#7fa6ef; font-size:1.2em; color:white" class="language-plaintext highlighter-rouge"><b># 호기심</b></code>&nbsp;&nbsp;
+    <code style="font-weight:200; font-family: 'Spoqa Han Sans Neo'; background-color:#7fa6ef; font-size:1.2em; color:white" class="language-plaintext highlighter-rouge"><b># 신기술</b></code>
 </div>
 <div style="position:static;">
     <a href="#intro" style="color:#7fa6ef; font-family: 'Spoqa Han Sans Neo'; font-size:1.5em;">Introduce</a>
@@ -52,7 +53,7 @@ icon: icon-html
 <!-- desc 3 -->
 <img style="max-width:900px; margin-bottom:10%;" src="\static\assets\img\blog\resume\ac.jpg">
 <h2 style="color:rgb(0, 89, 255); font-weight:normal">" <b>소통</b>과 <b>협업</b>에 강점이 있습니다. "</h2><br>
-<p>다양한 연령대, 다른 성향을 가진 많은 사람들과 협력하여 자주 활동했습니다. <br> 이러한 경험들을 통해 타인과의 소통 능력을 익힐 수 있었습니다.</p><br>
+<p>다양한 연령대, 다른 성향을 가진 많은 사람들과 협력하여 자주 활동했습니다. <br>이러한 경험들을 바탕으로 타인과의 소통 능력을 향상시킬 수 있었고,<br>총 세번의 프로젝트에서 모두 팀장을 맡았지만, 한 명의 탈주도 없이 모든 프로젝트를 무사히 마쳤습니다.</p><br>
 <ul style="margin-bottom:20%;">
     <li style="color:#7fa6ef">비영리 청년문화단체 활동, 지역 문화 협동조합 회원</li>
     <li style="color:#7fa6ef">문화체육관광부/ 시시콜콜 비영리단체 지원사업 2회 선정</li>
@@ -76,24 +77,19 @@ icon: icon-html
 <p style="margin-bottom:5%;">원하는 UI 를 만들고 프로젝트에 적용시킬 수 있습니다.</p>
 <!-- experienced -->
 <h2 style="color:#AAAAAA"><b># Experienced</b></h2><br>
+<p style="margin-bottom:5%;">Python</p>
 <ul style="margin-bottom:5%;">
-    <li style="color:#a5c4ff">Python</li>
-    <li style="color:#a5c4ff">Kakao Api</li>
-    <li style="color:#a5c4ff">Web Socket</li>
-    <li style="color:#a5c4ff">SweetAlert2</li>
-    <li style="color:#a5c4ff">Simple Date Picker</li>
+    <li style="color:#a5c4ff">Python, Web Socket, Kakao Api, SweetAlert2, Simple Date Picker, Toastr</li>
 </ul>
 <!-- tools -->
 <h2 style="color:#AAAAAA"><b># Tools</b></h2><br>
+<p style="margin-bottom:5%;">Spring Tool Suite 3, Eclipse, Visual Studio Code</p>
+<p style="margin-bottom:5%;">Sql plus, Sql Developer, eXERD</p>
+<p style="margin-bottom:5%;">Ajax, Tomcat9, Web Socket</p>
+<p style="margin-bottom:5%;">Bootstrap4, Kakao API, SweetAlert2, Simple Data Picker, Toastr</p>
+<p style="margin-bottom:5%;">Slack, Github</p>
 <ul>
-    <li style="color:#a5c4ff">Spring Tool Suite 3</li>
-    <li style="color:#a5c4ff">Eclipse</li>
-    <li style="color:#a5c4ff">Visual Studio Code</li>
-    <li style="color:#a5c4ff">Sql Plus</li>
-    <li style="color:#a5c4ff">Sql Developer</li>
-    <li style="color:#a5c4ff">Slack</li>
-    <li style="color:#a5c4ff">Git</li>
-    <li style="color:#a5c4ff">Github</li>
+    <li style="color:#a5c4ff">Spring Tool Suite 3, Eclipse, Visual Studio Code</li>
     <li style="color:#a5c4ff">Bootstrap4</li>
     <li style="color:#a5c4ff">MyBatis</li>
     <li style="color:#a5c4ff">Ajax</li>
@@ -118,5 +114,5 @@ icon: icon-html
     <li style="color:#7fa6ef">백엔드 개발 기초 개념 학습</li>
     <li style="color:#7fa6ef">프론트엔드 기초 개념 학습</li>
     <li style="color:#7fa6ef">개인 프로젝트 : 1회</li>
-    <li style="color:#7fa6ef">팀 프로젝트 : 4회</li>
+    <li style="color:#7fa6ef">팀 프로젝트 : 3회</li>
 </ul>

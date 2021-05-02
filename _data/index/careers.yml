@@ -4,13 +4,13 @@
     detail: 🎓국비지원학원
     i18n: 비트캠프 신촌센터
   desc:
-    detail: 비트캠프 신촌센터 181기 수료<br>- 스터디장<br>- 모범상
+    detail: 비트캠프 신촌센터 181기 수료<br>- 스터디장, 모범상
     i18n: 비트캠프 신촌센터_desc
   date:
     detail: 2020년 10월 19일 ~ 2021년 3월 31일
     i18n: 비트캠프 신촌센터_date
   job:
-    detail: 열정 넘치는 학생
+    detail: 끈기와 열정을 탑재한 학생
     i18n: 비트캠프 신촌센터_job
   icon: fa-plus-square
   present: true
@@ -25,7 +25,7 @@
     detail: 2021년 6월
     i18n: 자격증_date
   job:
-    detail: 열정 넘치는 학생
+    detail: '"공부요? 제가 즐기는 일이예요~"'
     i18n: 자격증_job
   icon: fa-plus-square
 
@@ -33,12 +33,12 @@
     detail: 🔥입사를 희망합니다!
     i18n: 입사를 희망합니다!
   desc:
-    detail: 빠르게 배우고, 누구보다 성실한<br>신입사원이 되겠습니다!
+    detail: 끈기있고 빠르게 학습하여,<br>제 몫을 할 수 있는 신입사원이 되겠습니다!
     i18n: 입사를 희망합니다!_desc
   date:
     detail: 2021년 5월 ~
     i18n: 입사를 희망합니다!_date
   job:
-    detail: 열정적인 신입사원
+    detail: 빠르게 배우며 터득할 신입사원
     i18n: 입사를 희망합니다!_job
   icon: fa-plus-square
