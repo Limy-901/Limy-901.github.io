@@ -20,18 +20,21 @@ icon: icon-html
 <img style="width:5%;" src="\static\assets\img\blog\project\withMyPet\footprint.png"><br><br><br><h2 style="font-weight:400;">🐶 파이널 프로젝트 : 반려인들의 외롭지 않은 산책 ! 🐶</h2><br>
 <img style="width:50%;" src="\static\assets\img\blog\project\withMyPet\team.jpg"><br><br><br><h2><b>프로젝트 개요</b></h2><br>
 <p style="font-size:1.8rem;">: <b>위드마이펫</b> 은 총 6명의 팀원이 함께 구현한 파이널 프로젝트로,<br>&nbsp; 반려인들이 쉽게 동네에서 산책 친구를 구하고 쇼핑, 커뮤니티 등<br>다양한 서비스를 사용할 수 있도록 기획한 반려동물 통합 웹 애플리케이션 입니다.</p><br><br><br>
-<img style="width:50%;" src="/static/assets/img/blog/project/withMyPet/stack.jpg"><br><br><br>
-<p> * <b>프로젝트 형태</b> : 함께해조 팀, 총 6명, 팀장</p>
+<p> * <b>프로젝트 형태</b> : 함께해조, 총 6명 (팀장)</p>
 <p> * <b>프로젝트 기간</b> : 21년 1월 ~ 21년 3월</p>
 <p> * <b>📂GitHub</b> : <a href="https://github.com/Limy-901/With_My_Pet_final">Repository</a></p>
 <p> * <b>✨담당 파트</b> : <a href="#walking">1. 산책,</a>&nbsp;&nbsp; <a href="#admin">2. 관리자</a></p>
+<p> * <b>👬협업 도구</b> : &nbsp;Git,  &nbsp;Slack</p>
 <p> * <b>🔗프레젠테이션</b> : <a href="https://drive.google.com/file/d/1OBVH8dNmR0AI3Y4h1XBVWe9_EoPdy4I4/view?usp=sharing">PDF 다운로드</a></p>
+<p> * <b>🔨사용 기술</b></p>
+<img style="width:50%;" src="/static/assets/img/blog/project/withMyPet/stack.jpg">
 </center><br><br>
 <hr>
-<center><br><br>
+<center>
+<br><br>
 <code style="background-color:#7fa6ef; font-weight:100; font-size:2em; color:white" class="language-plaintext highlighter-rouge"><b>&nbsp;초기 흐름&nbsp;</b></code>
 <br><br>
-<img style="width:70%;" src="\static\assets\img\blog\project\withMyPet\flow.jpg">
+<img style="width:50%;" src="\static\assets\img\blog\project\withMyPet\flow.jpg">
 <p style="margin-bottom:10%;"></p>
 <code style="background-color:#7fa6ef; font-weight:100; font-size:2em; color:white" class="language-plaintext highlighter-rouge"><b>&nbsp;DB 설계&nbsp;</b></code><br><br>
 <p style="font-size:2rem; font-weight:400">초기 설계 : 17개 -> 24개로 증가</p>

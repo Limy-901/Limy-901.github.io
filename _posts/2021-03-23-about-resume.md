@@ -19,21 +19,17 @@ icon: icon-html
 <img style="display:flex; margin:auto; max-width:300px; border-radius:50%;" src="\static\assets\img\blog\resume\me.jpg"><br><br>
 <!-- 간단 자기소개 -->
 <center>
-<p style="text-align:center; font-size:2rem; font-family: 'Spoqa Han Sans Neo', 'sans-serif';">안녕하세요!🌞<br><b>관찰과 이해</b>가 취미이고, <b>만들기</b>가 특기인<br></p> <h2><b style="color:rgb(0, 89, 255);">임연지</b> 입니다.</h2><br><br>
+<p style="text-align:center; font-size:2.1rem; font-family: 'Spoqa Han Sans Neo', 'sans-serif';">안녕하세요!&nbsp;<b>관찰</b>과 <b>이해</b>가 취미이고, <b>만들기</b>가 특기인<br></p> <h2 style="font-weight:400"><b style="color:rgb(0, 89, 255);">임연지</b>입니다.</h2><br><br>
 
-<div style="margin-bottom:3%;" >
-    <code style="font-weight:200; font-family: 'Spoqa Han Sans Neo'; background-color:#7fa6ef; font-size:1.2em; color:white" class="language-plaintext highlighter-rouge"><b>관찰</b></code>&nbsp;&nbsp;
-    <code style="font-weight:200; font-family: 'Spoqa Han Sans Neo'; background-color:#7fa6ef; font-size:1.2em; color:white" class="language-plaintext highlighter-rouge"><b>이해</b></code>&nbsp;&nbsp;
-    <code style="font-weight:200; font-family: 'Spoqa Han Sans Neo'; background-color:#7fa6ef; font-size:1.2em; color:white" class="language-plaintext highlighter-rouge"><b>호기심</b></code>&nbsp;&nbsp;
-    <code style="font-weight:200; font-family: 'Spoqa Han Sans Neo'; background-color:#7fa6ef; font-size:1.2em; color:white" class="language-plaintext highlighter-rouge"><b>신기술</b></code><br><br>
-</div>
-<div style="position:static;">
-    <a href="#intro" style="text-decoration:underline; color:#7fa6ef; font-family: 'Spoqa Han Sans Neo'; font-size:1.5em;">Introduce</a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a style="text-decoration:underline; color:#7fa6ef; font-family: 'Spoqa Han Sans Neo'; font-size:1.5em;" href="#stack">Stack</a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a style="text-decoration:underline; color:#7fa6ef;font-family: 'Spoqa Han Sans Neo'; font-size:1.5em;" href="#edu">Education</a>
-</div><br>
+<p>저는 코딩에서 재미를 느껴가는 행복한 개발자입니다.<br>백엔드 개발을 하고 있으며, 매일 레벨업을 위해 이리저리 찾아다니며 성장하는 중입니다!<br>신기술 및 4차 산업에도 관심이 많으며 새로운 기술을 배우는 것을 정말 좋아합니다.</p><br><br>
+
+<p><b>E-mail</b> : ly.misty901@gmail.com<br><b>Phone</b> : +82 10 4943 2132</p>
+<br><br>
+<code style="font-family: 'Spoqa Han Sans Neo'; background-color:rgb(0, 89, 255); font-size:2rem; color:white" class="language-plaintext highlighter-rouge"><b>&nbsp;관찰하기&nbsp;</b></code>&nbsp;&nbsp;&nbsp;
+<code style="font-family: 'Spoqa Han Sans Neo'; background-color:rgb(0, 89, 255); font-size:2rem; color:white" class="language-plaintext highlighter-rouge"><b>&nbsp;이해하기&nbsp;</b></code>&nbsp;&nbsp;&nbsp;
+<code style="font-family: 'Spoqa Han Sans Neo'; background-color:rgb(0, 89, 255); font-size:2rem; color:white" class="language-plaintext highlighter-rouge"><b>&nbsp;호기심&nbsp;</b></code>&nbsp;&nbsp;&nbsp;
+<code style="font-family: 'Spoqa Han Sans Neo'; background-color:rgb(0, 89, 255); font-size:2rem; color:white" class="language-plaintext highlighter-rouge"><b>&nbsp;신기술&nbsp;</b></code><br><br><br><br>
+
 <!-- About -->
 <hr style="margin-bottom:10%;">
 <!-- Introduce -->
