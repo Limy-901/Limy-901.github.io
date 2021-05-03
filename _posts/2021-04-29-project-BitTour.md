@@ -24,7 +24,7 @@ icon: icon-html
 <p> * <b>프로젝트 형태</b> : 비트 조, 총 4명, 팀장</p>
 <p> * <b>프로젝트 기간</b> : 20.12.08 ~ 20.12.15</p>
 <p> * <b>📃데이터베이스 설계</b><br><img style="width:50%;" src="\static\assets\img\blog\project\bitTour\erd.png"></p>
-<p> * <b>📂Git hub</b> : <a href="https://github.com/Limy-901/Project_2st">Repository</a></p>
+<p> * <b>📂Git hub</b> : <a href="https://github.com/Limy-901/BIT_Tour_semi">Repository</a></p>
 <p> * <b>✨담당 파트</b> : 랜딩 페이지, 상세 페이지, 답변형 문의 게시판</p>
 
 </center><br><br>

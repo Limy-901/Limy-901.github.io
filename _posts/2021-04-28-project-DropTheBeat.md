@@ -22,7 +22,7 @@ icon: icon-html
 <img style="width:60%;" src="\static\assets\img\blog\project\dropTheBeat\dropthebeat-stack.jpg"><br><br><br>
 <p> * <b>프로젝트 형태</b> : 비트 조, 총 4명, 팀장</p>
 <p> * <b>프로젝트 기간</b> : 20.11.21 ~ 20.11.27</p>
-<p> * <b>📂Git hub</b> : <a href="https://github.com/Limy-901/Project_1st">Repository</a></p>
+<p> * <b>📂Git hub</b> : <a href="https://github.com/Limy-901/Drop_the_Beat_java">Repository</a></p>
 <p> * <b>✨담당 파트</b> : <a href="">서버-클라이언트 TCP 통신, 디자인</a></p>
 </center><br><br>
 

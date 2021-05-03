@@ -22,7 +22,7 @@ icon: icon-html
 <img style="width:70%;" src="/static/assets/img/blog/project/withMyPet/stack.jpg"><br><br><br>
 <p> * <b>프로젝트 형태</b> : 함께해조 팀, 총 6명, 팀장</p>
 <p> * <b>프로젝트 기간</b> : 21년 1월 ~ 21년 3월</p>
-<p> * <b>📂GitHub</b> : <a href="https://github.com/Limy-901/WithMyPet">Repository</a></p>
+<p> * <b>📂GitHub</b> : <a href="https://github.com/Limy-901/With_My_Pet_final">Repository</a></p>
 <p> * <b>✨담당 파트</b> : <a href="#walking">1.산책,</a>&nbsp;&nbsp; <a href="#admin">2.관리자</a></p>
 <p> * <b>🔗프레젠테이션</b> : <a href="https://drive.google.com/file/d/1OBVH8dNmR0AI3Y4h1XBVWe9_EoPdy4I4/view?usp=sharing">PDF 다운로드</a></p>
 </center><br><br>
