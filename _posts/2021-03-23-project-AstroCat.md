@@ -15,7 +15,7 @@ icon: icon-html
 
 <center>
 <br>
-<h2>😮 파이썬 터틀 라이브러리로 과연 어떤 게임을 만들 수 있을까? 😕</h2>
+<h2>😮 파이썬 게임 : 별을 모아 고양이를 구하자 😕</h2>
 
 <br>
 <img style="width:60%;" src="\static\assets\img\blog\project\astroCat\astrocat-logo.png"><br><br><br>

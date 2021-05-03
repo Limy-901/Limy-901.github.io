@@ -15,15 +15,16 @@ icon: icon-html
 
 <center>
 <br>
-<img style="width:10%;" src="\static\assets\img\blog\project\withMyPet\footprint.png"><br><br><br>
-<h2><b>프로젝트 개요</b></h2><br>
-<img style="width:60%;" src="\static\assets\img\blog\project\withMyPet\team.jpg"><br><br><br>
+
+
+<img style="width:5%;" src="\static\assets\img\blog\project\withMyPet\footprint.png"><br><br><br><h2 style="font-weight:400;">🐶 파이널 프로젝트 : 반려인들의 외롭지 않은 산책 ! 🐶</h2><br>
+<img style="width:50%;" src="\static\assets\img\blog\project\withMyPet\team.jpg"><br><br><br><h2><b>프로젝트 개요</b></h2><br>
 <p style="font-size:1.8rem;">: <b>위드마이펫</b> 은 총 6명의 팀원이 함께 구현한 파이널 프로젝트로,<br>&nbsp; 반려인들이 쉽게 동네에서 산책 친구를 구하고 쇼핑, 커뮤니티 등<br>다양한 서비스를 사용할 수 있도록 기획한 반려동물 통합 웹 애플리케이션 입니다.</p><br><br><br>
-<img style="width:70%;" src="/static/assets/img/blog/project/withMyPet/stack.jpg"><br><br><br>
+<img style="width:50%;" src="/static/assets/img/blog/project/withMyPet/stack.jpg"><br><br><br>
 <p> * <b>프로젝트 형태</b> : 함께해조 팀, 총 6명, 팀장</p>
 <p> * <b>프로젝트 기간</b> : 21년 1월 ~ 21년 3월</p>
 <p> * <b>📂GitHub</b> : <a href="https://github.com/Limy-901/With_My_Pet_final">Repository</a></p>
-<p> * <b>✨담당 파트</b> : <a href="#walking">1.산책,</a>&nbsp;&nbsp; <a href="#admin">2.관리자</a></p>
+<p> * <b>✨담당 파트</b> : <a href="#walking">1. 산책,</a>&nbsp;&nbsp; <a href="#admin">2. 관리자</a></p>
 <p> * <b>🔗프레젠테이션</b> : <a href="https://drive.google.com/file/d/1OBVH8dNmR0AI3Y4h1XBVWe9_EoPdy4I4/view?usp=sharing">PDF 다운로드</a></p>
 </center><br><br>
 <hr>
@@ -32,11 +33,13 @@ icon: icon-html
 <br><br>
 <img style="width:70%;" src="\static\assets\img\blog\project\withMyPet\flow.jpg">
 <p style="margin-bottom:10%;"></p>
-<code style="background-color:#7fa6ef; font-weight:100; font-size:2em; color:white" class="language-plaintext highlighter-rouge"><b>&nbsp;DB 설계&nbsp;</b></code>
+<code style="background-color:#7fa6ef; font-weight:100; font-size:2em; color:white" class="language-plaintext highlighter-rouge"><b>&nbsp;DB 설계&nbsp;</b></code><br><br>
+<p style="font-size:2rem; font-weight:400">초기 설계 : 17개 -> 24개로 증가</p>
 <br><br>
-<img style="width:70%;" src="\static\assets\img\blog\project\withMyPet\DB.jpg">
+<img style="width:40%;" src="\static\assets\img\blog\project\withMyPet\prerd.jpg">&nbsp;&nbsp;
+<img style="width:50%;" src="\static\assets\img\blog\project\withMyPet\DB.jpg">
 <p style="margin-bottom:10%;"></p>
-<code style="background-color:#7fa6ef; font-weight:100; font-size:2em; color:white" class="language-plaintext highlighter-rouge"><b>&nbsp;시연 영상&nbsp;</b></code>
+<code style="background-color:#7fa6ef; font-weight:100; font-size:2em; color:white" class="language-plaintext highlighter-rouge"><b>&nbsp;시연 영상&nbsp;</b></code><br><br><p style="font-size:2rem; font-weight:400">담당 파트 : 04:16 - 07:38</p>
 <br><br>
 <div class="embed-container">
 <iframe style="width:100%" src="https://www.youtube.com/embed/E7_hEN3_wmA" title="YouTube video player" frameborder="0" onLoad="setIFrameHeight(this)" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
@@ -48,9 +51,9 @@ icon: icon-html
 <br><br>
 <p><p style="font-size:2rem; font-weight:600">1-1 산책 목록</p><br>
 <p>
-<img style="width:50%;" src="\static\assets\img\blog\project\withMyPet\login.JPG"><br>
-<img style="width:50%;" src="\static\assets\img\blog\project\withMyPet\walking.JPG"><br>
-<img style="width:50%;" src="\static\assets\img\blog\project\withMyPet\make.jpg"><br>
+<img style="width:30%;" src="\static\assets\img\blog\project\withMyPet\login.JPG">
+<img style="width:30%;" src="\static\assets\img\blog\project\withMyPet\walking.JPG">
+<img style="width:30%;" src="\static\assets\img\blog\project\withMyPet\make.jpg"><br>
 <br>
 <iframe style="width:100%"  src="\static\assets\img\blog\project\withMyPet\1-walklist.gif" frameborder='0' scrolling='no' width='640px' height='360px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe></p><br><br>
     <p>
