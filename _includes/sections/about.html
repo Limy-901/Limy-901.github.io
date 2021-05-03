@@ -40,7 +40,6 @@
                     {% if site.author.email %}
                     <li><a href="mailto:{{ site.author.email }}"><i class="fa fa-envelope-o"></i></a></li>
                     {% endif %}
-                    <li><a href="{{ site.baseurl }}/feed.xml" target="blank"><i class="fa fa-rss"></i></a></li>
                     {% if site.author.cv %}
                     <li><a href="{{ site.author.cv }}" target="blank"><i class="fa fa-file-pdf-o"></i></a></li>
                     {% endif %}
@@ -57,10 +56,10 @@
             </div>
         </div>
         {% endfor %}
-    </div>
+    </div><br>
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg wow zoomIn">
-            <p style="font-size:2rem;"><span data-i18n="about_me.des">{{ site.author.desc }}</span></p><br><br>
+            <p style="font-size:2rem;"><span data-i18n="about_me.des">{{ site.author.desc }}</span></p><br>
             <div style="text-align: center;">
                 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Flimy-901.github.io&count_bg=%233385FF&title_bg=%23CFCFCF&icon=baidu.svg&icon_color=%23FFFFFF&title=Limy&edge_flat=false"/></a>
             </div>
