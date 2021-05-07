@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: 😊&nbsp;<a style="text-decoration:underline; margin-top:3%;" href="/about/2021/03/25/about-resume.html">About Me</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚&nbsp;<a style="text-decoration:underline;"" href="#Project">Project</a> # Describe yourself.
+  desc: 😊&nbsp;<a style="text-decoration:underline; margin-top:3%;" href="/about/2021/03/25/about-resume.html">About Me</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📚&nbsp;<a style="text-decoration:underline;"" href="#Project">Project</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📃&nbsp;<a style="text-decoration:underline;"" href="https://blog.naver.com/misty901">Blog</a> # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
